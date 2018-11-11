@@ -1,5 +1,5 @@
 # NumPY
-#### This assigment is to investigate the Numppy random package <br>
+#### This assigment is to investigate the Numpy random package <br>
 The first part looks at the various functions within the random sampling section <br> 
 Found it best to just take a function and running it to see what might be happening <br> 
 There is some overlapp between the various function and that can present some confusion <br>
